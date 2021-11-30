@@ -3,7 +3,7 @@
 ## Predicting Flight Delays
 
 This project is part of Big Data project. <br>
-We have implemented several machine learning models like K-Means, Logistic regression, Gradient Boosted tree model, Naive Bayes model and Linear Regression model to predict flight delays.
+We have implemented several machine learning models like K-Means, Logistic regression, Gradient Boosted tree model, Naive Bayes model and Linear Regression model to predict flight delays. All the models have been implemented using Pyspark on databricks.
 
 Link to original dataset- https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial/data?select=flights.csv
 
